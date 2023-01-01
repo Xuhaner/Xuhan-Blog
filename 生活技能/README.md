@@ -1,4 +1,3 @@
-各类软件推荐
-1. Github
-	- Github 介绍
-	- windows for Github
+# 生活技能
+## 做菜系列
+1. 蛋炒饭
